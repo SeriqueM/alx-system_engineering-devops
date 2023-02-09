@@ -1,0 +1,4 @@
+#!/bin/bash
+pwd
+cd tmp
+rm -r my_first_directory
